@@ -1,2 +1,2 @@
 # pollapp
-django policy app
+django polling app
